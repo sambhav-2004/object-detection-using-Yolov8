@@ -11,6 +11,7 @@ This project demonstrates real-time object detection using the [Ultralytics YOLO
 - Uses `yolov8n.pt` model from Ultralytics
 
 ## 🚀 Getting Started
+LOAD PRE TRAINED YOLO MODEL THEN UPDATE THE LOCATION IN THE CODE BEFORE RUNNING IT.
 
 ### 📦 Prerequisites
 
