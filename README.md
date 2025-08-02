@@ -12,7 +12,14 @@ This project demonstrates real-time object detection using the [Ultralytics YOLO
 
 ## 🚀 Getting Started
 LOAD PRE TRAINED YOLO MODEL THEN UPDATE THE LOCATION IN THE CODE BEFORE RUNNING IT.
+MODEL AVAILABLE IN FILES.
 
+##🧠 Model Details
+Model Used: YOLOv8 Nano (yolov8n.pt)
+
+Source: https://github.com/ultralytics/ultralytics
+
+You can switch to other versions like yolov8s.pt, yolov8m.pt, etc., depending on your performance requirements.
 ### 📦 Prerequisites
 
 Make sure you have Python 3.8 or higher installed. Then, install the required packages:
